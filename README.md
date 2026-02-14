@@ -1,2 +1,1 @@
-Update notification test
-
+how to set commit notification email in GitHub
